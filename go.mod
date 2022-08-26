@@ -1,5 +1,3 @@
-module Hello-world/main
+module github.com/username/repo-name
 
 go 1.19
-
-require golang.org/x/text v0.3.7
