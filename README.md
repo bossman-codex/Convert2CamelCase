@@ -4,6 +4,7 @@ A program that converts a dash/dot/underscore/space separated string to camelCas
 ## Ex:
 "foo-bar" becomes "fooBar"
 Examples of how the module should be used; of course this would be in Go syntax
+
 camelCase("foo-bar");
 //=> "fooBar"
 
