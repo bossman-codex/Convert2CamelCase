@@ -1,6 +1,6 @@
 # CAMEL CASE
 
-__Create a program that converts a dash/dot/underscore/space separated string to camelCase or PascalCase.__
+A program that converts a dash/dot/underscore/space separated string to camelCase or PascalCase.__
 ## Ex:
 "foo-bar" becomes "fooBar"
 Examples of how the module should be used; of course this would be in Go syntax
